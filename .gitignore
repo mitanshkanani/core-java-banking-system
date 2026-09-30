@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.log
+
+# Never commit real DB credentials
+src/main/resources/db.properties
